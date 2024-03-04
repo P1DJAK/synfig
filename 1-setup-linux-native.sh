@@ -1,5 +1,6 @@
 #!/bin/bash
 
+11111111
 # There are 3 types of dependencies:
 # 1. Build tools:
 # a) autoconf, automake, make, libtool (if you use autotools build system)
